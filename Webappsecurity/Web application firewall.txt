@@ -1,0 +1,24 @@
+Web application firewalls (WAF) :
+
+ * We application firewalls are hardware and software solutions used for protection and secure the application security threats.
+
+ * WAF's are designed to examine incoming traffic to block attackers or intruders attempts, thereby compensating for any code that ledtohack our device.
+
+ * Deployment of a WAF do not require making any changes to an application,so it is reliable and we can use it safely.
+
+ * WAFs are integrated with other security solutions to form a more secure environment.These may include distributed denial of service (DDoS) protection services that provide additional scalability required to block high-volume attacks.
+
+            
+ * WAF's features:
+
+            *visibilty of threats
+            *Compliance    
+            *Availabilty&support
+            *Active threat monitorng
+            *policy managment
+
+                   
+
+                                                   
+
+                        
